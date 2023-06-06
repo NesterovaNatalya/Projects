@@ -1,0 +1,14 @@
+Задача проекта:
+- Выявить сегменты клиентов банка, которые подвержены высокому риску оттока
+- Сформулировать рекомендации для менеджера по продукту с целью удержания клиентов
+
+Используемые библиотеки:
+- pandas
+- numpy
+- scipy.stats
+- seaborn
+- plotly.express
+- folium
+- phik
+
+Ссылка на презентацию по проекту: https://drive.google.com/file/d/1fv70SDXc1Y5JpLobxPETAefujyEG5fX6/view?usp=share_link
